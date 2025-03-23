@@ -80,7 +80,6 @@ trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?allowIn
 trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?allowInsecure=1&amp;sni=data.steamdownload.top#美国+2
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
-vless://91700565-f0a2-4b9e-91ce-72f1d49413d6@a.peppa.ggff.net:37331?mode=auto&amp;path=/&amp;security=reality&amp;encryption=none&amp;pbk=5aOhdEC-nH03h6CCzLUZsYOk4f_vfTnBNcWCoXKa334&amp;host=a1.peppa.ggff.net&amp;fp=random&amp;spx=/&amp;type=xhttp&amp;sni=amd.com&amp;sid=cd64#嘎嘎白嫖
 vless://30f85233-d41e-4297-97c1-cfac047a948b@83.147.2.34:23333?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.hkust.edu.hk&amp;fp=ios&amp;pbk=m8EakBs4m90p4xWb7QBEYU5CLbSeux7Atwuebr4Ru1s&amp;sid=a824c09f0f15&amp;type=tcp&amp;headerType=none#🇭🇰 Aklie 香港 HKSM
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NjVFNVx1NjcyQyBcdTRFMUNcdTRFQUNcdTkwRkQgICBcdTY1RTVcdTY3MkMgXHU0RTFDXHU0RUFDXHU5MEZEIEFLSUxFIExURCIsDQogICJhZGQiOiAiMTU2LjI0Ni44OS4yMDAiLA0KICAicG9ydCI6ICI0NzgzNCIsDQogICJpZCI6ICI2YTc5NzE0My1lMDEwLTQwODctOTY5YS0zYTBjMWUxYWExZTAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 ss://YWVzLTEyOC1nY206d3BUQ2pzSzBaY0t2dzZURGhNT1lWR1IrdzViQ2xSbkNsU2tkdzczRHVEQXJ3NnA0VnNPVFlNTzhLa1VuWThLVA
