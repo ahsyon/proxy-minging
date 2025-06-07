@@ -6,7 +6,8 @@ clash订阅:
 - https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 - https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 - https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
-v2订阅: []
+v2订阅:
+- https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 机场订阅:
 - http://sub3.127665.xyz/s/c172ca1bf5616320b20cdc1cb4fec7c1
 - https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
