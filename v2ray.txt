@@ -61,10 +61,6 @@ trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?allowIn
 trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?allowInsecure=1&amp;sni=data.steamdownload.top#美国+2
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
-vless://9ffa6da8-26dc-435c-884b-32662e7ffe7e@104.18.14.19:80?path=/?ed=2560&amp;security=&amp;encryption=none&amp;host=0314.hiyasta2.workers.dev&amp;type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:80
-vless://f3562b04-2f2b-433a-80b4-45f60d659004@104.21.7.193:2095?path=/?ed=2560&amp;security=&amp;encryption=none&amp;host=925tg.3gnc3sjz.workers.dev&amp;type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.7.193:2095
-vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@104.21.5.179:8880?path=/?ed=2048&amp;security=&amp;encryption=none&amp;host=bia-zod-falcunargo.545c437f13.workers.Dev&amp;type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.5.179:8880
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.20.94:2095?path=/?ed=2560&amp;security=&amp;encryption=none&amp;host=xijinpingnmsl.s4ar.workers.dev&amp;type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.20.94:2095
 vless://09e9b7e9-a212-4ae2-ad55-7d97f5ea29c1@104.18.30.195:443?encryption=none&amp;security=tls&amp;sni=wq.hdab.site&amp;type=xhttp&amp;path=/09e9b7e9&amp;mode=auto#hk
 vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678?type=tcp&amp;security=reality&amp;pbk=rrGm0NemTtGQ8Vrd2AzB7pSoW_kYtqYvhRxsx_MtwG0&amp;fp=chrome&amp;sni=swdist.apple.com&amp;sid=5d20&amp;spx=/f2cec4b0&amp;flow=xtls-rprx-vision#🇮🇪 Dublin 6TB-v4
 vmess://eyJhZGQiOiI0MWQ2NWM5ZC1zdXg4ZzAtdDB3Nm8xLTFsazlpLmNtNS5wNXB2LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNjBlMzc4Mi0yMjNlLTExZWUtYjk3My1mMjNjOTEzYzhkMmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE3MjM0IiwicHMiOiLljbDluqblsLzopb/kupoiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -124,7 +120,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMWVmN2UwZDUzMTE0YmUwZDQ4MGIzNTFiODk5ZmNiOEB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMWVmN2UwZDUzMTE0YmUwZDQ4MGIzNTFiODk5ZmNiOEBzZ3ZpcDAxLjg4YTU4MTc1NTI3MDExNy42ZmRmYThkNy4zZHlmazIuY29tOjE1NDEz#香港高速防墙线-购买网址：ct99.me
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQnFUUHpDdzNCc1N3Nm16VVJ2MEU3QDEwMy40Ny4xMTMuMjI2OjE2MTM3#香港CN2光纤-购买地址：ct99.me
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVSVpmZ2JxQlM1MWVCTTBLbE9QMUhXQDN0LmNpOTEyOG9sbWNheGppYTJ3ZDFtbDljLmNvbToyMDYzNQ#台湾CN2光纤-防失联网址：chitu.me
-ssr://eTY2LmZmZC5tdDU4ODgudG9wOjQxMTE0OmF1dGhfY2hhaW5fYTpub25lOnBsYWluOmJXRnVkRzkxZVhWdU9EZzQvP3JlbWFya3M9OEotUmxsUkg2YUtSNllHVFFITjBlVzFsYVRFJnByb3RvcGFyYW09T0RFNU9EcERjMHAwT0VKQ2NrdEdUMU55YW5ZeSZvYmZzcGFyYW09WTJKalpHTTRNVGs0TG0xcFkzSnZjMjltZEM1amIyMA
 trojan://6849c459-9b04-46e6-8dd8-f92812711563@aafrtpfxr.arl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43590?allowInsecure=0&amp;sni=q08m.vgraxiw73s.hasyaf.cn#Telegram@WFVPN+阿根廷1
 trojan://6b0e1898-e7d4-4bfb-8c80-9a521a483302@aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43498?allowInsecure=0&amp;sni=q08m.vgraxiw73s.hasyaf.cn#Telegram@WFVPN+法国1
 trojan://6b0e1898-e7d4-4bfb-8c80-9a521a483302@aafrtpfxr.myl02i9zjfegelp.5xfsur8v62.gosdk.xyz:43383?allowInsecure=0&amp;sni=q08m.vgraxiw73s.hasyaf.cn#Telegram@WFVPN+马来西亚1
