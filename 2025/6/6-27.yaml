@@ -1,12 +1,14 @@
 clash订阅:
 - http://199.245.100.163:49850/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1,50&amp;filter=r,p&amp;type=ss
 - https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
+- https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
 - https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 - https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 - https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 - https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
 v2订阅:
+- https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 - https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 机场订阅:
 - http://47.107.142.52:88/api/v1/client/subscribe?token=d688513b1852bd92fc1d96124c36723f
@@ -15,6 +17,7 @@ v2订阅:
 - https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=dc651326e2ce650def8fc3772d7187c5
 - https://onlysub.mjurl.com/api/v1/client/subscribe?token=6dbf0b92279e3ca9448b883496d8870f
 - https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=750810736ea0883ffd61f1b1c416b885
+- https://sub.dafei.de/share/sub/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de?token=%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de
 - https://sub.xn--vpn-3f0h822m.com/s/120736a78227400ace8535d3bbcbcff1
 - https://vpn.huasuan666.top/api/v1/client/subscribe?token=1e6f4c5573b94fddf13fff9f5d5b9405
 - https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
