@@ -61,11 +61,6 @@ trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?allowIn
 trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?allowInsecure=1&amp;sni=data.steamdownload.top#美国+2
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
-vless://fc24d458-cd43-4939-b92a-8d677cf53ae1@45.192.242.165:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.ebay.com&amp;fp=chrome&amp;security=reality&amp;pbk=pGZPioRVoFJL6XaSSjUWFtmWcX2vhJ8W_UHSM6InIQM&amp;sid=
-hy2://747117eb-493e-4f0e-8a23-d2a945f643d1@154.26.187.73:18389/?insecure=1#dmit.hysteria2-154.26.187.73
-vless://18fe216e-628f-4795-acac-28ef6372245c@154.26.187.73:18373/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.ebay.com&amp;fp=chrome&amp;security=reality&amp;pbk=VZ5yPzcA8GExBvYJs5EbguQr5ZXVxPdC4lPisBJwWio&amp;sid=
-ss://YWVzLTI1Ni1nY206NEllZGlRL1VvaHpVenVUZzZ2RUlSbHZaM2hRYTdIQVB1Q25CT1BtYndJMD0@
-ss://YWVzLTI1Ni1nY206NEllZGlRL1VvaHpVenVUZzZ2RUlSbHZaM2hRYTdIQVB1Q25CT1BtYndJMD0@
 trojan://ad2b5cee-f61d-4060-8726-5fedf509ff5d@kp.mjt000.com:443/?type=tcp&amp;security=tls&amp;sni=kp.mjt000.com#朝鲜KP朝鲜🇰🇵
 ss://YWVzLTI1Ni1nY206UGRJRnFNUVV0QjNjcUZnemo5eG5yY3lrMnRFSlNrUmFsSVpSU01BRmYwTVU@
 ss://YWVzLTI1Ni1nY206NEk4M3RLT1Y0Q29EUkZUVVBqbFZOdmVJWURSRzJvbCt5OUV1Uk1SMVdDND0@
