@@ -61,7 +61,6 @@ trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?allowIn
 trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?allowInsecure=1&amp;sni=data.steamdownload.top#美国+2
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
-trojan://ad2b5cee-f61d-4060-8726-5fedf509ff5d@kp.mjt000.com:443/?type=tcp&amp;security=tls&amp;sni=kp.mjt000.com#朝鲜KP朝鲜🇰🇵
 ss://YWVzLTI1Ni1nY206UGRJRnFNUVV0QjNjcUZnemo5eG5yY3lrMnRFSlNrUmFsSVpSU01BRmYwTVU@
 ss://YWVzLTI1Ni1nY206NEk4M3RLT1Y0Q29EUkZUVVBqbFZOdmVJWURSRzJvbCt5OUV1Uk1SMVdDND0@
 vless://31961d72-b3df-4f0b-84c3-c4575b2b142b@newus-ceg5.555199.xyz:8443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=ssl.wsfog.co.uk&amp;fp=chrome#美国01
